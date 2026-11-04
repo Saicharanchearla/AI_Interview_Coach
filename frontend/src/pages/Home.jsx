@@ -1,1 +1,380 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíãnýN‹Z–‹­¦ëeŠw¬Õ¥µÁ½ÉÐìÕÍ•MÑ…Ñ”ô™É½´€‰É•…Ðˆì4)¥µÁ½ÉÐìÕÍ•9…Ù¥…Ñ”ô™É½´€‰É•…ÐµÉ½ÕÑ•Èµ‘½´ˆì4)¥µÁ½ÉÐìÕÁ±½…‘I•ÍÕµ”ô™É½´€ˆ¸¸½Í•ÉÙ¥•Ì½…Á¤ˆì4)¥µÁ½ÉÐ€ˆ¸½¡½µ”¹ÍÌˆì4(4)™Õ¹Ñ¥½¸!½µ” ¤ì4(€½¹ÍÐ¹…Ù¥…Ñ”€ôÕÍ•9…Ù¥…Ñ” ¤ì4(4(€½¹ÍÐmÉ•ÍÕµ•9…µ”°Í•ÑI•ÍÕµ•9…µ•t€ôÕÍ•MÑ…Ñ” 4(€€€±½…±MÑ½É…”¹•Ñ%Ñ•´ ‰É•ÍÕµ•9…µ”ˆ¤ñð€ˆˆ4(€€¤ì4(€½¹ÍÐm…ÑÍM½É”°Í•ÑÑÍM½É•t€ôÕÍ•MÑ…Ñ” 4(€€€9Õµ‰•È¡±½…±MÑ½É…”¹•Ñ%Ñ•´ ‰…ÑÍM½É”ˆ¤¤ñð€À4(€€¤ì4(€½¹ÍÐmÕÁ±½…‘¥¹œ°Í•ÑUÁ±½…‘¥¹t€ôÕÍ•MÑ…Ñ”¡™…±Í”¤ì4(4(€½¹ÍÐ¡…¹‘±•I•ÍÕµ•UÁ±½…€ô…Íå¹Œ€¡•Ù•¹Ð¤€ôøì4(€€€½¹ÍÐ™¥±”€ô•Ù•¹Ð¹Ñ…É•Ð¹™¥±•Ìü¹lÁtì4(€€€¥˜€ …™¥±”¤É•ÑÕÉ¸ì4(4(€€€½¹ÍÐ…±±½Ý•‘áÑ•¹Í¥½¹Ì€ô€½p¸¡Á‘™ñ‘½ñ‘½à¤½¤ì4(4(€€€¥˜€ ……±±½Ý•‘áÑ•¹Í¥½¹Ì¹Ñ•ÍÐ¡™¥±”¹¹…µ”¤¤ì4(€€€€€…±•ÉÐ ‰A±•…Í”ÕÁ±½…„A½È]½ÉÉ•ÍÕµ”¸ˆ¤ì4(€€€€€•Ù•¹Ð¹Ñ…É•Ð¹Ù…±Õ”€ô€ˆˆì4(€€€€€É•ÑÕÉ¸ì4(€€€ô4(4(€€€Í•ÑUÁ±½…‘¥¹œ¡ÑÉÕ”¤ì4(4(€€€ÑÉäì4(€€€€€½¹ÍÐÉ•ÍÕ±Ð€ô…Ý…¥ÐÕÁ±½…‘I•ÍÕµ”¡™¥±”¤ì4(4(€€€€€±½…±MÑ½É…”¹Í•Ñ%Ñ•´ ‰É•ÍÕµ•9…µ”ˆ°™¥±”¹¹…µ”¤ì4(€€€€€Í•ÑI•ÍÕµ•9…µ”¡™¥±”¹¹…µ”¤ì4(4(€€€€€¥˜€¡ÑåÁ•½˜É•ÍÕ±Ð¹…ÑÍ}Í½É”€ôôô€‰¹Õµ‰•Èˆ¤ì4(€€€€€€€±½…±MÑ½É…”¹Í•Ñ%Ñ•´ ‰…ÑÍM½É”ˆ°MÑÉ¥¹œ¡É•ÍÕ±Ð¹…ÑÍ}Í½É”¤¤ì4(€€€€€€€Í•ÑÑÍM½É”¡É•ÍÕ±Ð¹…ÑÍ}Í½É”¤ì4(€€€€€ô4(4(€€€€€¥˜€ 4(€€€€€€€ÉÉ…ä¹¥ÍÉÉ…ä¡É•ÍÕ±Ð¹ÅÕ•ÍÑ¥½¹Ì¤€˜˜4(€€€€€€€É•ÍÕ±Ð¹ÅÕ•ÍÑ¥½¹Ì¹±•¹Ñ €ø€À4(€€€€€€¤ì4(€€€€€€€…±•ÉÐ 4(€€€€€€€€€I•ÍÕµ”ÕÁ±½…‘•ÍÕ•ÍÍ™Õ±±ä„€‘íÉ•ÍÕ±Ð¹ÅÕ•ÍÑ¥½¹Ì¹±•¹Ñ¡ô¥¹Ñ•ÉÙ¥•ÜÅÕ•ÍÑ¥½¹Ì•¹•É…Ñ•¹€4(€€€€€€€€¤ì4(€€€€€ô•±Í”ì4(€€€€€€€…±•ÉÐ 4(€€€€€€€€€€‰I•ÍÕµ”ÕÁ±½…‘•°‰ÕÐ¹¼¥¹Ñ•ÉÙ¥•ÜÅÕ•ÍÑ¥½¹ÌÝ•É”É•ÑÕÉ¹•‰äÑ¡”‰…­•¹¸ˆ4(€€€€€€€€¤ì4(€€€€€ô4(€€€ô…Ñ €¡•ÉÉ½È¤ì4(€€€€€½¹Í½±”¹•ÉÉ½È ‰I•ÍÕµ”ÕÁ±½…•ÉÉ½Èèˆ°•ÉÉ½È¤ì4(€€€€€…±•ÉÐ¡•ÉÉ½È¹µ•ÍÍ…”ñð€‰…¥±•Ñ¼ÕÁ±½…É•ÍÕµ”¸A±•…Í”ÑÉä……¥¸¸ˆ¤ì4(€€€ô™¥¹…±±äì4(€€€€€Í•ÑUÁ±½…‘¥¹œ¡™…±Í”¤ì4(€€€€€•Ù•¹Ð¹Ñ…É•Ð¹Ù…±Õ”€ô€ˆˆì4(€€€ô4(€ôì4(4(€É•ÑÕÉ¸€ 4(€€€€ñµ…¥¸±…ÍÍ9…µ”ô‰¡½µ”µÁ…”ˆø4(€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰¡½µ”µ½¹Ñ…¥¹•Èˆø4(€€€€€€€€ñÍ•Ñ¥½¸±…ÍÍ9…µ”ô‰¡½µ”µ¡•É¼ˆø4(€€€€€€€€€€ñÍÁ…¸±…ÍÍ9…µ”ô‰¡½µ”µ•å•‰É½Üˆø4(€€€€€€€€€€€e=UHIHAIAIQ%=8]=I-MA4(€€€€€€€€€€ð½ÍÁ…¸ø4(4(€€€€€€€€€€ñ Äø4(€€€€€€€€€€€AÉ•Á…É”Íµ…ÉÑ•È¸4(€€€€€€€€€€€€ñ‰È€¼ø4(€€€€€€€€€€€€ñÍÁ…¸ù%¹Ñ•ÉÙ¥•ÜÝ¥Ñ ½¹™¥‘•¹”¸ð½ÍÁ…¸ø4(€€€€€€€€€€ð½ Äø4(4(€€€€€€€€€€ñÀ±…ÍÍ9…µ”ô‰¡½µ”µ¡•É¼µ‘•ÍÉ¥ÁÑ¥½¸ˆø4(€€€€€€€€€€€Ù•ÉåÑ¡¥¹œå½Ô¹••Ñ¼ÁÉ•Á…É”™½ÈÁ±…•µ•¹ÑÌ°4(€€€€€€€€€€€¥µÁÉ½Ù”å½ÕÈÉ•ÍÕµ”°ÁÉ…Ñ¥Í”¥¹Ñ•ÉÙ¥•ÝÌ…¹4(€€€€€€€€€€€ÍÑÉ•¹Ñ¡•¸å½ÕÈ½‘¥¹œÍ­¥±±ÌƒŠP…±°¥¸½¹”Á±…”¸4(€€€€€€€€€€ð½Àø4(4(€€€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰¡½µ”µ¡•É¼µ…Ñ¥½¹Ìˆø4(€€€€€€€€€€€€ñ‰ÕÑÑ½¸4(€€€€€€€€€€€€€±…ÍÍ9…µ”ô‰¡½µ”µ‰ÕÑÑ½¸¡½µ”µ‰ÕÑÑ½¸µÁÉ¥µ…Éäˆ4(€€€€€€€€€€€€€½¹±¥¬õì ¤€ôø¹…Ù¥…Ñ” ˆ½ÁÉ½‘ÕÐµ½µÁ…¹¥•Ìˆ¥ô4(€€€€€€€€€€€€ø4(€€€€€€€€€€€€€áÁ±½É”½µÁ…¹¥•Ì4(€€€€€€€€€€€€€€ñÍÁ…¸…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆûŠHð½ÍÁ…¸ø4(€€€€€€€€€€€€ð½‰ÕÑÑ½¸ø4(4(€€€€€€€€€€€€ñ‰ÕÑÑ½¸4(€€€€€€€€€€€€€±…ÍÍ9…µ”ô‰¡½µ”µ‰ÕÑÑ½¸¡½µ”µ‰ÕÑÑ½¸µÍ•½¹‘…Éäˆ4(€€€€€€€€€€€€€½¹±¥¬õì ¤€ôø¹…Ù¥…Ñ” ˆ½½‘¥¹œˆ¥ô4(€€€€€€€€€€€€ø4(€€€€€€€€€€€€€MÑ…ÉÐ½‘¥¹œÁÉ…Ñ¥”4(€€€€€€€€€€€€ð½‰ÕÑÑ½¸ø4(€€€€€€€€€€ð½‘¥Øø4(4(€€€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰¡½µ”µ™•…ÑÕÉ”µÍÑÉ¥Àˆø4(€€€€€€€€€€€€ñ‘¥Øø7m»öÚ$z{-®éÜj×÷ƒÒ##B#B"f–ÆÃÒ&æöæR#àÐ¢ÇF€Ð¢CÒ$ÓB#crãTÃ"6Ã‚BãUc#Ó"ãR#ƒ”Ó‚ƒÓRƒÓ‚FƒÓRFƒÓ#bÓFƒGcB Ð¢7G&ö¶SÒ&7W'&VçD6öÆ÷" Ð¢7G&ö¶Uv–GFƒÒ#ãb Ð¢7G&ö¶TÆ–æV6Ò'&÷VæB Ð¢7G&ö¶TÆ–æV¦ö–ãÒ'&÷VæB Ð¢óàÐ¢Â÷7fsàÐ¢ÂöF—càÐ Ð¢Æƒ3å6W'f–6RÖ&6VB6ö×æ–W3Âöƒ3àÐ¢ÇàÐ¢&7F—6RÆ6VÖVçB76W76ÖVçG2ÂFV6†æ–6ÂVW7F–öç2ÀÐ¢6öÖ×Væ–6F–öâæB…"–çFW'f–Ww2àÐ¢Â÷àÐ Ð¢ÆF—b6Æ74æÖSÒ&†öÖRÖ6&B×Fw2#àÐ¢Ç7ãäF—GVFSÂ÷7ãàÐ¢Ç7ãåFV6†æ–6ÃÂ÷7ãàÐ¢Ç7ãä…"&÷VæG3Â÷7ãàÐ¢ÂöF—càÐ Ð¢Æ'WGFöàÐ¢6Æ74æÖSÒ&†öÖRÖ6&BÖÆ–æ² Ð¢öä6Æ–6³×²‚’Óâæf–vFR‚"÷6W'f–6RÖ6ö×æ–W2"—ÐÐ¢àÐ¢W‡Æ÷&R6W'f–6R6ö×æ–W0Ð¢Ç7â&–Ö†–FFVãÒ'G'VR#î(i#Â÷7ãàÐ¢Âö'WGFöãàÐ¢Âö'F–6ÆSàÐ¢ÂöF—càÐ¢Â÷6V7F–öãàÐ Ð¢Ç6V7F–öâ6Æ74æÖSÒ&†öÖR×6V7F–öâ"–CÒ&6öF–ær#àÐ¢ÆF—b6Æ74æÖSÒ&†öÖR×6V7F–öâÖ†VF–ær#àÐ¢ÆF—càÐ¢Ç7â6Æ74æÖSÒ&†öÖRÖW–V'&÷r#ä4ôD”är$5D”4SÂ÷7ãàÐ¢Æƒ#ä'V–ÆBÆöv–2â6öÇfR&ö&ÆV×2ãÂöƒ#àÐ¢ÇàÐ¢–×&÷fR–÷W"&öw&ÖÖ–ærgVæFÖVçFÇ2æB&W&PÐ¢f÷"6öF–ær76W76ÖVçG2öæR&ö&ÆVÒBF–ÖRàÐ¢Â÷àÐ¢ÂöF—càÐ¢Ç7â6Æ74æÖSÒ&†öÖR×6V7F–öâÖ–æFW‚#ã2ò3Â÷7ãàÐ¢ÂöF—càÐ Ð¢ÆF—b6Æ74æÖSÒ&6öF–ær×æVÂ#àÐ¢ÆF—b6Æ74æÖSÒ&6öF–ær×æVÂÖ6öçFVçB#àÐ¢ÆF—b6Æ74æÖSÒ&†öÖRÖ–6öâÖ&÷‚"&–Ö†–FFVãÒ'G'VR#àÐ¢Ç7frf–Wt&÷ƒÒ##B#B"f–ÆÃÒ&æöæR#àÐ¢ÇF€Ð¢CÒ&Ó‚‚ÓBBBFÓ‚Ó‚BBÓBFÒÓ2ÓÓ"B Ð¢7G&ö¶SÒ&7W'&VçD6öÆ÷" Ð¢7G&ö¶Uv–GFƒÒ#ãr Ð¢7G&ö¶TÆ–æV6Ò'&÷VæB Ð¢7G&ö¶TÆ–æV¦ö–ãÒ'&÷VæB Ð¢óàÐ¢Â÷7fsàÐ¢ÂöF—càÐ¢ÆF—càÐ¢Æƒ3å–÷W"æW‡B&ö&ÆVÒ7F'G2†W&RãÂöƒ3àÐ¢ÇàÐ¢&7F—6R'&—2Â7G&–æw2ÂÆö÷2ÂÆ–æ¶VBÆ—7G2ÀÐ¢G&VW2æB÷F†W"6öF–ærF÷–72àÐ¢Â÷àÐ¢ÂöF—càÐ¢ÂöF—càÐ Ð¢Æ'WGFöàÐ¢6Æ74æÖSÒ&†öÖRÖ'WGFöâ†öÖRÖ'WGFöâ×&–Ö'’ Ð¢öä6Æ–6³×²‚’Óâæf–vFR‚"ö6öF–ær"—ÐÐ¢àÐ¢÷Vâ6öF–ær&7F–6PÐ¢Ç7â&–Ö†–FFVãÒ'G'VR#î(i#Â÷7ãàÐ¢Âö'WGFöãàÐ¢ÂöF—càÐ¢Â÷6V7F–öãàÐ Ð¢Æfö÷FW"6Æ74æÖSÒ&†öÖRÖfö÷FW"#àÐ¢Ç7ãä’–çFW'f–Wr6ö6ƒÂ÷7ãàÐ¢Ç7ãå&W&Rv—F‚W'÷6Râ&öw&W72v—F‚&7F–6RãÂ÷7ãàÐ¢Âöfö÷FW#àÐ¢ÂöF—càÐ¢ÂöÖ–ãàÐ¢“°Ð§ÐÐ Ð¦W‡÷'BFVfVÇB†öÖS°Ð
+import { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import { uploadResume } from "../services/api";
+import "./home.css";
+
+function Home() {
+  const navigate = useNavigate();
+
+  const [resumeName, setResumeName] = useState(
+    localStorage.getItem("resumeName") || ""
+  );
+  const [atsScore, setAtsScore] = useState(
+    Number(localStorage.getItem("atsScore")) || 0
+  );
+  const [uploading, setUploading] = useState(false);
+
+  const handleResumeUpload = async (event) => {
+    const file = event.target.files?.[0];
+    if (!file) return;
+
+    const allowedExtensions = /\.(pdf|doc|docx)$/i;
+
+    if (!allowedExtensions.test(file.name)) {
+      alert("Please upload a PDF or Word resume.");
+      event.target.value = "";
+      return;
+    }
+
+    setUploading(true);
+
+    try {
+      const result = await uploadResume(file);
+
+      localStorage.setItem("resumeName", file.name);
+      setResumeName(file.name);
+
+      if (typeof result.ats_score === "number") {
+        localStorage.setItem("atsScore", String(result.ats_score));
+        setAtsScore(result.ats_score);
+      }
+
+      if (
+        Array.isArray(result.questions) &&
+        result.questions.length > 0
+      ) {
+        alert(
+          `Resume uploaded successfully! ${result.questions.length} interview questions generated.`
+        );
+      } else {
+        alert(
+          "Resume uploaded, but no interview questions were returned by the backend."
+        );
+      }
+    } catch (error) {
+      console.error("Resume upload error:", error);
+      alert(error.message || "Failed to upload resume. Please try again.");
+    } finally {
+      setUploading(false);
+      event.target.value = "";
+    }
+  };
+
+  return (
+    <main className="home-page">
+      <div className="home-container">
+        <section className="home-hero">
+          <span className="home-eyebrow">
+            YOUR CAREER PREPARATION WORKSPACE
+          </span>
+
+          <h1>
+            Prepare smarter.
+            <br />
+            <span>Interview with confidence.</span>
+          </h1>
+
+          <p className="home-hero-description">
+            Everything you need to prepare for placements,
+            improve your resume, practise interviews and
+            strengthen your coding skills â€” all in one place.
+          </p>
+
+          <div className="home-hero-actions">
+            <button
+              className="home-button home-button-primary"
+              onClick={() => navigate("/product-companies")}
+            >
+              Explore companies
+              <span aria-hidden="true">â†’</span>
+            </button>
+
+            <button
+              className="home-button home-button-secondary"
+              onClick={() => navigate("/coding")}
+            >
+              Start coding practice
+            </button>
+          </div>
+
+          <div className="home-feature-strip">
+            <div>
+              <span className="feature-number">01</span>
+              <span>Resume preparation</span>
+            </div>
+            <div>
+              <span className="feature-number">02</span>
+              <span>Interview practice</span>
+            </div>
+            <div>
+              <span className="feature-number">03</span>
+              <span>Coding skills</span>
+            </div>
+          </div>
+        </section>
+
+        <section className="home-section" id="resume">
+          <div className="home-section-heading">
+            <div>
+              <span className="home-eyebrow">RESUME</span>
+              <h2>Make your resume stand out.</h2>
+              <p>
+                Upload your resume to get started with your
+                resume preparation.
+              </p>
+            </div>
+            <span className="home-section-index">01 / 03</span>
+          </div>
+
+          <div className="resume-panel">
+            <div className="resume-panel-copy">
+              <div className="home-icon-box" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="M7 3.75h7l4 4v12.5H7a2 2 0 0 1-2-2v-12.5a2 2 0 0 1 2-2Z"
+                    stroke="currentColor"
+                    strokeWidth="1.6"
+                    strokeLinejoin="round"
+                  />
+                  <path
+                    d="M14 3.75v4h4M8.5 12h7M8.5 15.5h7"
+                    stroke="currentColor"
+                    strokeWidth="1.6"
+                    strokeLinecap="round"
+                  />
+                </svg>
+              </div>
+
+              <h3>Resume ATS Checker</h3>
+              <p>
+                Start with your existing resume in PDF or Word
+                format.
+              </p>
+
+              <label className="resume-upload-button">
+                <input
+                  type="file"
+                  accept=".pdf,.doc,.docx"
+                  onChange={handleResumeUpload}
+                  disabled={uploading}
+                />
+                {uploading
+                  ? "Processing resume..."
+                  : resumeName
+                    ? "Upload a new resume"
+                    : "Choose resume"}
+              </label>
+
+              <span className="resume-file-hint">
+                Supported formats: PDF, DOC and DOCX
+              </span>
+            </div>
+
+            <div className="resume-status">
+              <span className="resume-status-label">
+                CURRENT RESUME
+              </span>
+
+              {resumeName ? (
+                <>
+                  <div className="resume-file-name">
+                    <span className="resume-file-symbol">PDF</span>
+                    <span title={resumeName}>{resumeName}</span>
+                  </div>
+
+                  <div className="resume-score">
+                    <span>Saved preview score</span>
+                    <strong>{atsScore}%</strong>
+                    <div className="resume-score-track">
+                      <div
+                        className="resume-score-fill"
+                        style={{ width: `${atsScore}%` }}
+                      />
+                    </div>
+                    <small>
+                      Backend ATS score analysis.
+                    </small>
+                  </div>
+
+                  <button
+                    className="resume-report-link"
+                    onClick={() => navigate("/report")}
+                  >
+                    View resume report <span aria-hidden="true">â†’</span>
+                  </button>
+                </>
+              ) : (
+                <div className="resume-empty-state">
+                  <span className="resume-empty-dot" />
+                  <strong>No resume uploaded yet</strong>
+                  <p>
+                    Your selected resume will appear here.
+                  </p>
+                </div>
+              )}
+            </div>
+          </div>
+        </section>
+
+        <section className="home-section" id="companies">
+          <div className="home-section-heading">
+            <div>
+              <span className="home-eyebrow">COMPANY PREPARATION</span>
+              <h2>Prepare for your target company.</h2>
+              <p>
+                Choose a preparation path that matches your
+                placement goals.
+              </p>
+            </div>
+            <span className="home-section-index">02 / 03</span>
+          </div>
+
+          <div className="home-company-grid">
+            <article className="home-choice-card">
+              <div className="home-card-topline">
+                <span className="home-card-label">TECHNICAL FOCUS</span>
+                <span className="home-card-arrow" aria-hidden="true">
+                  â†—
+                </span>
+              </div>
+
+              <div className="home-icon-box" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none">
+                  <rect
+                    x="3"
+                    y="4"
+                    width="18"
+                    height="13"
+                    rx="2"
+                    stroke="currentColor"
+                    strokeWidth="1.6"
+                  />
+                  <path
+                    d="M8 21h8M12 17v4M8.5 9.5l2 2-2 2M13 13.5h2.5"
+                    stroke="currentColor"
+                    strokeWidth="1.6"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
+              </div>
+
+              <h3>Product-based companies</h3>
+              <p>
+                Prepare for technical interviews, data structures,
+                algorithms and problem-solving rounds.
+              </p>
+
+              <div className="home-card-tags">
+                <span>DSA</span>
+                <span>Algorithms</span>
+                <span>Technical rounds</span>
+              </div>
+
+              <button
+                className="home-card-link"
+                onClick={() => navigate("/product-companies")}
+              >
+                Explore product companies
+                <span aria-hidden="true">â†’</span>
+              </button>
+            </article>
+
+            <article className="home-choice-card">
+              <div className="home-card-topline">
+                <span className="home-card-label">PLACEMENT FOCUS</span>
+                <span className="home-card-arrow" aria-hidden="true">
+                  â†—
+                </span>
+              </div>
+
+              <div className="home-icon-box" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="M4 21V7.5L12 3l8 4.5V21M2.5 21h19M8 10h1M15 10h1M8 14h1M15 14h1M10 21v-4h4v4"
+                    stroke="currentColor"
+                    strokeWidth="1.6"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
+              </div>
+
+              <h3>Service-based companies</h3>
+              <p>
+                Practise placement assessments, technical questions,
+                communication and HR interviews.
+              </p>
+
+              <div className="home-card-tags">
+                <span>Aptitude</span>
+                <span>Technical</span>
+                <span>HR rounds</span>
+              </div>
+
+              <button
+                className="home-card-link"
+                onClick={() => navigate("/service-companies")}
+              >
+                Explore service companies
+                <span aria-hidden="true">â†’</span>
+              </button>
+            </article>
+          </div>
+        </section>
+
+        <section className="home-section" id="coding">
+          <div className="home-section-heading">
+            <div>
+              <span className="home-eyebrow">CODING PRACTICE</span>
+              <h2>Build logic. Solve problems.</h2>
+              <p>
+                Improve your programming fundamentals and prepare
+                for coding assessments one problem at a time.
+              </p>
+            </div>
+            <span className="home-section-index">03 / 03</span>
+          </div>
+
+          <div className="coding-panel">
+            <div className="coding-panel-content">
+              <div className="home-icon-box" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="m8 8-4 4 4 4m8-8 4 4-4 4m-3-11-2 14"
+                    stroke="currentColor"
+                    strokeWidth="1.7"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
+              </div>
+              <div>
+                <h3>Your next problem starts here.</h3>
+                <p>
+                  Practise arrays, strings, loops, linked lists,
+                  trees and other coding topics.
+                </p>
+              </div>
+            </div>
+
+            <button
+              className="home-button home-button-primary"
+              onClick={() => navigate("/coding")}
+            >
+              Open coding practice
+              <span aria-hidden="true">â†’</span>
+            </button>
+          </div>
+        </section>
+
+        <footer className="home-footer">
+          <span>AI Interview Coach</span>
+          <span>Prepare with purpose. Progress with practice.</span>
+        </footer>
+      </div>
+    </main>
+  );
+}
+
+export default Home;
