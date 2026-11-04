@@ -1,0 +1,85 @@
+import "./App.css";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+
+import Navbar from "./components/Navbar";
+import CodingPractice from "./components/CodingPractice";
+
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import Signup from "./pages/Signup";
+import Report from "./pages/Report";
+import CompanyDetails from "./pages/CompanyDetails";
+import ProductCompanies from "./pages/ProductCompanies";
+import ServiceCompanies from "./pages/ServiceCompanies";
+import InterviewPractice from "./pages/InterviewPractice";
+import PracticeWorkspace from "./pages/PracticeWorkspace";
+
+function Footer() {
+  return (
+    <footer className="app-footer">
+      <p>AI-Powered Interview Coach and Career Intelligence Platform</p>
+    </footer>
+  );
+}
+
+function NotFound() {
+  return (
+    <section className="not-found-page">
+      <h1>404 - Page Not Found</h1>
+      <p>The page you are looking for does not exist.</p>
+      <button type="button" onClick={() => window.location.assign("/")}>
+        Back to Home
+      </button>
+    </section>
+  );
+}
+
+function App() {
+  return (
+    <BrowserRouter>
+      <div className="app-layout">
+        <Navbar />
+
+        <main className="app-main">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/signup" element={<Signup />} />
+
+            <Route
+              path="/product-companies"
+              element={<ProductCompanies />}
+            />
+            <Route
+              path="/service-companies"
+              element={<ServiceCompanies />}
+            />
+            <Route
+              path="/company/:name"
+              element={<CompanyDetails />}
+            />
+
+            <Route
+              path="/interview/:name"
+              element={<InterviewPractice />}
+            />
+            <Route path="/coding" element={<CodingPractice />} />
+            <Route path="/report" element={<Report />} />
+
+            <Route
+              path="/practice/:company/:module"
+              element={<PracticeWorkspace />}
+            />
+
+            <Route path="/companies" element={<Navigate to="/product-companies" replace />} />
+            <Route path="*" element={<NotFound />} />
+          </Routes>
+        </main>
+
+        <Footer />
+      </div>
+    </BrowserRouter>
+  );
+}
+
+export default App;

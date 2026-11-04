@@ -1,0 +1,212 @@
+
+/* GLOBAL WHITE THEME */
+:root {
+  color-scheme: light;
+  --page-bg: #ffffff;
+  --surface-bg: #ffffff;
+  --surface-secondary: #f7f7f7;
+  --border-color: #e5e5e5;
+  --text-primary: #171717;
+  --text-secondary: #525252;
+  --brand-primary: #171717;
+  --brand-hover: #404040;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+  margin: 0;
+  background: #ffffff !important;
+  color: #171717 !important;
+}
+
+body,
+body.light {
+  background: #ffffff !important;
+  color: #171717 !important;
+}
+
+/* Company detail page and all panels */
+.company-details-page,
+.company-details-page section,
+.company-details-page article,
+.company-details-page .card,
+.company-details-page .company-header,
+.company-details-page .company-info,
+.company-details-page .stat-card,
+.company-details-page .preparation-progress,
+.company-details-page .progress-card,
+.company-details-page .daily-preparation-card,
+.company-details-page .preparation-card,
+.company-details-page .module-card,
+.company-details-page .practice-card,
+.company-details-page [class*="track"],
+.company-details-page [class*="preparation"],
+.company-details-page [class*="module"],
+.company-details-page [class*="practice"],
+.companies-overview,
+.companies-overview .company-card {
+  background-color: #ffffff !important;
+  color: #171717 !important;
+  border-color: #e5e5e5 !important;
+  box-shadow: none !important;
+}
+
+/* Fix nested elements inheriting dark backgrounds */
+.company-details-page section *,
+.company-details-page article *,
+.company-details-page .card *,
+.company-details-page [class*="track"] *,
+.company-details-page [class*="preparation"] *,
+.company-details-page [class*="module"] *,
+.company-details-page [class*="practice"] * {
+  box-shadow: none !important;
+}
+
+/* Text */
+.company-details-page h1,
+.company-details-page h2,
+.company-details-page h3,
+.company-details-page h4,
+.company-details-page strong,
+.company-details-page label,
+.company-details-page b {
+  color: #171717 !important;
+}
+
+.company-details-page p,
+.company-details-page span,
+.company-details-page small {
+  color: #525252;
+}
+
+/* Preparation choices and role-selection boxes */
+.company-details-page button,
+.company-details-page [role="button"],
+.company-details-page .track-option,
+.company-details-page .role-option,
+.company-details-page .preparation-option,
+.company-details-page .practice-option {
+  background: #ffffff !important;
+  color: #171717 !important;
+  border: 1px solid #d4d4d4 !important;
+  box-shadow: none !important;
+}
+
+/* Make nested choice text readable */
+.company-details-page button *,
+.company-details-page [role="button"] * {
+  background: transparent !important;
+  color: inherit !important;
+}
+
+/* Selected preparation choice */
+.company-details-page button[aria-pressed="true"],
+.company-details-page [role="button"][aria-pressed="true"],
+.company-details-page .selected,
+.company-details-page .active-track,
+.company-details-page .selected-track {
+  background: #f0f0f0 !important;
+  color: #171717 !important;
+  border-color: #171717 !important;
+}
+
+/* Main action buttons */
+.company-details-page button[type="submit"],
+.company-details-page .primary-btn,
+.company-details-page .company-button,
+.company-details-page .company-overview-button,
+.companies-overview button,
+.companies-page button {
+  background: #171717 !important;
+  color: #ffffff !important;
+  border: 1px solid #171717 !important;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Main button text */
+.company-details-page button[type="submit"] *,
+.company-details-page .primary-btn *,
+.company-details-page .company-button *,
+.companies-overview button *,
+.companies-page button * {
+  color: #ffffff !important;
+  background: transparent !important;
+}
+
+/* Inputs */
+.company-details-page input,
+.company-details-page textarea,
+.company-details-page select {
+  background: #ffffff !important;
+  color: #171717 !important;
+  border: 1px solid #d4d4d4 !important;
+}
+
+/* Company listing */
+.companies-overview {
+  min-height: 100vh;
+  padding: 56px 24px 72px;
+  box-sizing: border-box;
+}
+
+.companies-overview-header {
+  max-width: 720px;
+  margin: 0 auto 42px;
+  text-align: center;
+}
+
+.companies-overview-header h1 {
+  color: #171717 !important;
+}
+
+.companies-overview-header p,
+.companies-overview .company-card p {
+  color: #525252 !important;
+}
+
+.companies-overview-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.companies-overview .company-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 24px;
+  border: 1px solid #e5e5e5 !important;
+  border-radius: 14px;
+}
+
+.companies-overview .company-card h2 {
+  color: #171717 !important;
+}
+
+.company-overview-category {
+  background: #f5f5f5 !important;
+  color: #404040 !important;
+  border: 1px solid #e5e5e5 !important;
+}
+
+@media (max-width: 850px) {
+  .companies-overview-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .companies-overview-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .companies-overview {
+    padding: 32px 16px 48px;
+  }
+}

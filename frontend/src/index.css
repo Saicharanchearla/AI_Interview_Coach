@@ -1,0 +1,251 @@
+
+/* ==========================================
+   AI INTERVIEW COACH — CHATGPT LIGHT THEME
+   ========================================== */
+
+:root {
+  color-scheme: light;
+
+  --page-bg: #ffffff;
+  --surface-bg: #ffffff;
+  --surface-secondary: #f7f7f8;
+  --border-color: #e5e5e5;
+  --text-primary: #171717;
+  --text-secondary: #666666;
+  --brand-primary: #171717;
+  --brand-hover: #333333;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  background: #ffffff !important;
+  color: #171717;
+}
+
+body,
+body.light,
+#root {
+  min-height: 100vh;
+  background: #ffffff !important;
+  color: #171717 !important;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6,
+label, strong, b {
+  color: #171717;
+}
+
+p, small, li {
+  color: #555555;
+}
+
+a {
+  color: #171717;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #444444;
+}
+
+/* Navigation */
+nav,
+header,
+.navbar,
+.app-header {
+  background: #ffffff !important;
+  color: #171717 !important;
+  border-bottom: 1px solid #e5e5e5 !important;
+  box-shadow: none !important;
+}
+
+nav a,
+header a,
+.navbar a {
+  color: #171717 !important;
+}
+
+/* Cards and sections */
+.card,
+.feature-card,
+.company-card,
+.resume-card,
+.stat-card,
+.coding-card,
+.challenge-container,
+section,
+.panel,
+.practice-card,
+.module-card {
+  color: #171717;
+  box-shadow: none;
+}
+
+.card,
+.feature-card,
+.company-card,
+.resume-card,
+.stat-card,
+.coding-card,
+.challenge-container,
+.practice-card,
+.module-card {
+  background: #ffffff !important;
+  border: 1px solid #e5e5e5 !important;
+  border-radius: 12px;
+}
+
+.feature-card:hover,
+.company-card:hover,
+.stat-card:hover,
+.coding-card:hover {
+  border-color: #bdbdbd !important;
+  transform: translateY(-2px);
+  box-shadow: none !important;
+}
+
+/* Black primary buttons */
+button,
+.primary-btn,
+.secondary-btn,
+.login-btn,
+.challenge-btn,
+.company-card button,
+.coding-card button {
+  font-family: inherit;
+  box-shadow: none !important;
+  transition: background-color 0.18s ease,
+              color 0.18s ease,
+              border-color 0.18s ease;
+}
+
+.primary-btn,
+.login-btn,
+.challenge-btn,
+.company-card button,
+.coding-card button,
+.buttons button,
+section button {
+  background: #171717 !important;
+  color: #ffffff !important;
+  border: 1px solid #171717 !important;
+  border-radius: 8px;
+}
+
+.primary-btn:hover,
+.login-btn:hover,
+.challenge-btn:hover,
+.company-card button:hover,
+.coding-card button:hover,
+.buttons button:hover,
+section button:hover {
+  background: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.secondary-btn {
+  background: #ffffff !important;
+  color: #171717 !important;
+  border: 1px solid #d4d4d4 !important;
+}
+
+.secondary-btn:hover {
+  background: #f5f5f5 !important;
+}
+
+/* Inputs and forms */
+input,
+textarea,
+select {
+  background: #ffffff !important;
+  color: #171717 !important;
+  border: 1px solid #d4d4d4 !important;
+  border-radius: 8px;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #888888 !important;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  border-color: #777777 !important;
+  box-shadow: 0 0 0 2px #eeeeee !important;
+}
+
+/* Coding editor and output */
+pre,
+code,
+.editor,
+.code-editor,
+.monaco-editor,
+.output-panel,
+.terminal,
+.question-panel {
+  border-color: #e5e5e5;
+}
+
+.output-panel,
+.terminal,
+.question-panel {
+  background: #fafafa !important;
+  color: #171717 !important;
+}
+
+/* Status panels and labels */
+.badge,
+.tag,
+.company-badge {
+  background: #f0f0f0 !important;
+  color: #444444 !important;
+  border: 1px solid #e5e5e5;
+}
+
+/* Footer */
+footer,
+.app-footer {
+  background: #ffffff !important;
+  color: #666666 !important;
+  border-top: 1px solid #e5e5e5 !important;
+}
+
+/* Remove gradients and dark-mode backgrounds */
+body,
+body.light,
+#root,
+main,
+.home-page,
+.companies-page,
+.companies-overview {
+  background-image: none !important;
+}
+
+/* Responsive layout */
+img,
+video,
+canvas {
+  max-width: 100%;
+}
+
+@media (max-width: 768px) {
+  nav {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .company-grid,
+  .companies-grid,
+  .modules-grid {
+    grid-template-columns: 1fr !important;
+  }
+}

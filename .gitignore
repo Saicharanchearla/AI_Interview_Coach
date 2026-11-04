@@ -1,0 +1,26 @@
+# Dependencies and build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local secrets and generated data
+.env
+**/.env
+*.db
+*.sqlite*
+backend/uploads/
+**/uploads/
+**/structure.txt
+
+# Editors and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
