@@ -14,4 +14,4 @@ An interview preparation app with a React/Vite frontend and a FastAPI backend.
 2. Install backend dependencies from `backend/requirements.txt`.
 3. Set `GEMINI_API_KEY` in your local environment (or a local, untracked `backend/.env` file), then run `uvicorn app:app --reload` from `backend/`.
 
-The frontend currently targets the existing Render API URL in `frontend/src/services/api.js`.
+The frontend reads `VITE_API_URL` at build time and falls back to the prior Render API URL.

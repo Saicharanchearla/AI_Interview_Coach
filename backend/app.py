@@ -23,10 +23,6 @@ app = FastAPI(
 # ----------------------------
 load_dotenv()
 
-print("Key exists:", bool(os.getenv("GEMINI_API_KEY")))
-print("Key length:", len(os.getenv("GEMINI_API_KEY", "")))
-print("Model:", os.getenv("GEMINI_MODEL"))
-
 ai_client = genai.Client(
     api_key=os.getenv("GEMINI_API_KEY")
 )
